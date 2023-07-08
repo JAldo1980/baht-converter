@@ -1,5 +1,5 @@
 # bhat-converter
- thai-bhat-sterling-currency-converter
+
 <h1>What I Built</h1>
 I built this cool little code snippet that converts Thai Baht to Pounds Sterling and vice versa! 💰💷
 
